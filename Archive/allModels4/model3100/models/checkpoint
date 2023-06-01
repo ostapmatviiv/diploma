@@ -1,0 +1,6 @@
+model_checkpoint_path: "model.ckpt"
+all_model_checkpoint_paths: "..\\..\\model2700\\models\\model.ckpt"
+all_model_checkpoint_paths: "..\\..\\model2800\\models\\model.ckpt"
+all_model_checkpoint_paths: "..\\..\\model2900\\models\\model.ckpt"
+all_model_checkpoint_paths: "..\\..\\model3000\\models\\model.ckpt"
+all_model_checkpoint_paths: "model.ckpt"
